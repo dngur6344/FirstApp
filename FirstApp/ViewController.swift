@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    override func viewDidLoad() {//프로그램을 구동시키면 맨 처음 이곳으로 온다.
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
